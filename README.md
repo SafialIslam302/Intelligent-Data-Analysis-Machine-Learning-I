@@ -1,6 +1,8 @@
 # Intelligent-Data-Analysis-Machine-Learning-I
 University of Potsdam
+
 Summer Term 2021
+
 Prof. Dr. Tobias Scheffer
 
 Topics covered:
