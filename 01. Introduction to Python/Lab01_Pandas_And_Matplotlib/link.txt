@@ -1,0 +1,5 @@
+https://www.kaggle.com/kashnitsky/topic-1-exploratory-data-analysis-with-pandas
+
+https://mlcourse.ai/articles/topic2-visual-data-analysis-in-python/
+
+http://luckylwk.github.io/2015/11/20/exploratory-data-analysis-using-pandas-seaborn/
